@@ -1,0 +1,8 @@
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\bin\Debug\Teste (lógica de programação).exe.config
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\bin\Debug\Teste (lógica de programação).exe
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\bin\Debug\Teste (lógica de programação).pdb
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\obj\Debug\Teste (lógica de programação).csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\obj\Debug\Teste (lógica de programação).csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\obj\Debug\Teste (lógica de programação).csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\obj\Debug\Teste (lógica de programação).exe
+C:\Users\anton\source\repos\Teste (lógica de programação)\Teste (lógica de programação)\obj\Debug\Teste (lógica de programação).pdb
